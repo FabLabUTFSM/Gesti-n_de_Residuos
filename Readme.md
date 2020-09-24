@@ -1,4 +1,4 @@
-# Implementación_5S
+# Gestion de Residuos
 Catastro de residuos generados en Fab Lab UTFSM, y posibles usuarios para estos materiales. 
 
 ## Enlaces claves 
