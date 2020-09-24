@@ -20,5 +20,6 @@ Catastro de residuos generados en Fab Lab UTFSM, y posibles usuarios para estos 
 
 ## Bibliografía
 
-[Objetivos Fab Lab]()
-[PLAN DE GESTIÓN INTEGRAL DE RESIDUOS INDUSTRIALES SÓLIDOS Y LÍQUIDOS EN TALLER METALMECÁNICO]()
+[Objetivos Fab Lab](https://github.com/FabLabUTFSM/Gesti-n_de_Residuos/blob/master/Bibliografia/Reunion1.pdf)
+
+[PLAN DE GESTIÓN INTEGRAL DE RESIDUOS INDUSTRIALES SÓLIDOS Y LÍQUIDOS EN TALLER METALMECÁNICO](https://github.com/FabLabUTFSM/Gesti-n_de_Residuos/blob/master/Bibliografia/3560902038555UTFSM%20(1).pdf)
