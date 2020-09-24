@@ -4,7 +4,6 @@ Catastro de residuos generados en Fab Lab UTFSM, y posibles usuarios para estos 
 ## Enlaces claves 
 
 - [Materiom](https://materiom.org/)
-- [Memoria taller metalmecanico]()
 - [Qactus - Reciclaje de plasticos residuos de impresión 3D](https://qactus.cl/)
 
 ## Directorio
