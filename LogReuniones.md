@@ -1,4 +1,4 @@
-# Registro reuniones y avance Memoria 2 - Omar Zuñiga
+# Registro reuniones y avance Memoria 2 - Valentina Caceres
 
 ## 25-09 
 
@@ -14,3 +14,7 @@ Valentina Caceres
 - Objetivos propios memorista (VC)
 
 ### Compromisos proxima reunión: 
+- Agregar contacto Rodrigo Montesinos al directorio (JT)
+- Queda pendiente reunion con Luis Guzman (VC)
+- Preparar documento para catastro de residuos (VC)
+- Mandar tutorial para usar Git (JT)
