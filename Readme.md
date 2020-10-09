@@ -16,6 +16,7 @@ Catastro de residuos generados en Fab Lab UTFSM, y posibles usuarios para estos 
 | Horacio Dominguez  | horacio.dominguez@sansano.usm.cl  |  +56 9 5668 6642 | Eco Contruccion  | 
 | Barbara Neira  | barbara.neira.13@sansano.usm.cl |  - | Movimiento Zero  | 
 | Fabian Rodriguez  | fabian.rodriguez@fablab.usm.cl  | +56 9 9788 3179 | BioMateriales | 
+| Rodrigo Montecino | rodrigo.montecino@usm.cl  | (+56) 9 61217925 | Gestión de residuos Campus Santiago | 
 
 ## Bibliografía
 
