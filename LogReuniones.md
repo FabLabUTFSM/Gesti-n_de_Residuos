@@ -18,3 +18,12 @@ Valentina Caceres
 - Queda pendiente reunion con Luis Guzman (VC)
 - Preparar documento para catastro de residuos (VC)
 - Mandar tutorial para usar Git (JT)
+
+## 9-10 
+
+- VC explica su reunión con Luis Guzman, donde le piden centrar su memoría RISES y RILES. 
+- El miercoles 14-10 VC tiene que presentar los objetivos a Luis Guzman, por lo que el martes me los enviará. 
+- JT se compromente a enviar listado de máquinas + enlaces de materiales que pueden usar. 
+
+### Compromisos proxima reunión: 
+- Preparar listado de residuos generados en el Lab. (VC)
